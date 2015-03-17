@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlManipulator", "XmlManipulator.csproj", "{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlTransformation", "..\XmlTransformation\XmlTransformation.csproj", "{7146CEDC-17C8-4555-8325-4C771FB09657}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://shefftfs04.sdl.corp:8080/tfs/professional%20services
+		SccProjectUniqueName0 = XmlManipulator.csproj
+		SccProjectName0 = .
+		SccAuxPath0 = http://shefftfs04.sdl.corp:8080/tfs/professional%20services
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = ..\\XmlTransformation\\XmlTransformation.csproj
+		SccProjectName1 = ../XmlTransformation
+		SccAuxPath1 = http://shefftfs04.sdl.corp:8080/tfs/professional%20services
+		SccLocalPath1 = ..\\XmlTransformation
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug (Add)|Any CPU = Debug (Add)|Any CPU
+		Debug (Add)|Mixed Platforms = Debug (Add)|Mixed Platforms
+		Debug (Add)|x86 = Debug (Add)|x86
+		Debug (EntityToLiterals)|Any CPU = Debug (EntityToLiterals)|Any CPU
+		Debug (EntityToLiterals)|Mixed Platforms = Debug (EntityToLiterals)|Mixed Platforms
+		Debug (EntityToLiterals)|x86 = Debug (EntityToLiterals)|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Debug-Org|Any CPU = Debug-Org|Any CPU
+		Debug-Org|Mixed Platforms = Debug-Org|Mixed Platforms
+		Debug-Org|x86 = Debug-Org|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug (Add)|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug (Add)|Any CPU.Build.0 = Release|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug (Add)|Mixed Platforms.ActiveCfg = Debug (Add)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug (Add)|Mixed Platforms.Build.0 = Debug (Add)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug (Add)|x86.ActiveCfg = Debug (Add)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug (EntityToLiterals)|Any CPU.ActiveCfg = Debug (EntityToLiterals)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug (EntityToLiterals)|Any CPU.Build.0 = Debug (EntityToLiterals)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug (EntityToLiterals)|Mixed Platforms.ActiveCfg = Debug (EntityToLiterals)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug (EntityToLiterals)|Mixed Platforms.Build.0 = Debug (EntityToLiterals)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug (EntityToLiterals)|x86.ActiveCfg = Debug (EntityToLiterals)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug-Org|Any CPU.ActiveCfg = Debug (Add)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug-Org|Any CPU.Build.0 = Debug (Add)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug-Org|Mixed Platforms.ActiveCfg = Debug (Add)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug-Org|Mixed Platforms.Build.0 = Debug (Add)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Debug-Org|x86.ActiveCfg = Debug (Add)|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D1D1F5B3-8511-471C-AD3A-DCCA58A52997}.Release|x86.ActiveCfg = Release|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug (Add)|Any CPU.ActiveCfg = Release|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug (Add)|Any CPU.Build.0 = Release|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug (Add)|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug (Add)|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug (Add)|x86.ActiveCfg = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug (EntityToLiterals)|Any CPU.ActiveCfg = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug (EntityToLiterals)|Any CPU.Build.0 = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug (EntityToLiterals)|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug (EntityToLiterals)|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug (EntityToLiterals)|x86.ActiveCfg = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug-Org|Any CPU.ActiveCfg = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug-Org|Any CPU.Build.0 = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug-Org|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug-Org|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Debug-Org|x86.ActiveCfg = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7146CEDC-17C8-4555-8325-4C771FB09657}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

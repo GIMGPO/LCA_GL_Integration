@@ -1,0 +1,9 @@
+C:\Users\vijayr3\Downloads\XmlManipulator\bin\Release\XmlManipulator.exe.config
+C:\Users\vijayr3\Downloads\XmlManipulator\bin\Release\XmlManipulator.exe.manifest
+C:\Users\vijayr3\Downloads\XmlManipulator\bin\Release\XmlManipulator.application
+C:\Users\vijayr3\Downloads\XmlManipulator\bin\Release\XmlManipulator.exe
+C:\Users\vijayr3\Downloads\XmlManipulator\bin\Release\XmlTransformation.dll
+C:\Users\vijayr3\Downloads\XmlManipulator\obj\Release\XmlManipulator.csprojResolveAssemblyReference.cache
+C:\Users\vijayr3\Downloads\XmlManipulator\obj\Release\XmlManipulator.exe.manifest
+C:\Users\vijayr3\Downloads\XmlManipulator\obj\Release\XmlManipulator.application
+C:\Users\vijayr3\Downloads\XmlManipulator\obj\Release\XmlManipulator.exe

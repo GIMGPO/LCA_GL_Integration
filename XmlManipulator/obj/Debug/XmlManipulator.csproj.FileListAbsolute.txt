@@ -1,0 +1,12 @@
+C:\Users\vijayr3\Downloads\XmlManipulator\obj\Debug\XmlManipulator.csprojResolveAssemblyReference.cache
+C:\Users\vijayr3\Downloads\XmlManipulator\obj\Debug\XmlManipulator.pdb
+C:\Users\vijayr3\Downloads\XmlManipulator\bin\Debug\XmlManipulator.exe.config
+C:\Users\vijayr3\Downloads\XmlManipulator\bin\Debug\XmlManipulator.exe.manifest
+C:\Users\vijayr3\Downloads\XmlManipulator\bin\Debug\XmlManipulator.application
+C:\Users\vijayr3\Downloads\XmlManipulator\bin\Debug\XmlManipulator.exe
+C:\Users\vijayr3\Downloads\XmlManipulator\bin\Debug\XmlManipulator.pdb
+C:\Users\vijayr3\Downloads\XmlManipulator\bin\Debug\XmlTransformation.dll
+C:\Users\vijayr3\Downloads\XmlManipulator\bin\Debug\XmlTransformation.pdb
+C:\Users\vijayr3\Downloads\XmlManipulator\obj\Debug\XmlManipulator.exe.manifest
+C:\Users\vijayr3\Downloads\XmlManipulator\obj\Debug\XmlManipulator.application
+C:\Users\vijayr3\Downloads\XmlManipulator\obj\Debug\XmlManipulator.exe
