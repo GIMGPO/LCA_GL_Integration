@@ -1,0 +1,5 @@
+C:\Users\vijayr3\Downloads\XmlWhitespaceCleaner\bin\Debug\XmlNormalizer.exe.config
+C:\Users\vijayr3\Downloads\XmlWhitespaceCleaner\bin\Debug\XmlNormalizer.exe
+C:\Users\vijayr3\Downloads\XmlWhitespaceCleaner\bin\Debug\XmlNormalizer.pdb
+C:\Users\vijayr3\Downloads\XmlWhitespaceCleaner\obj\Debug\XmlNormalizer.exe
+C:\Users\vijayr3\Downloads\XmlWhitespaceCleaner\obj\Debug\XmlNormalizer.pdb

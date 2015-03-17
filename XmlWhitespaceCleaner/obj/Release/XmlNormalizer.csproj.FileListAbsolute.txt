@@ -1,0 +1,6 @@
+C:\Users\vijayr3\Downloads\XmlWhitespaceCleaner\bin\Release\XmlNormalizer.exe.config
+C:\Users\vijayr3\Downloads\XmlWhitespaceCleaner\bin\Release\XmlNormalizer.exe
+C:\Users\vijayr3\Downloads\XmlWhitespaceCleaner\bin\Release\XmlNormalizer.pdb
+C:\Users\vijayr3\Downloads\XmlWhitespaceCleaner\obj\Release\XmlNormalizer.csprojResolveAssemblyReference.cache
+C:\Users\vijayr3\Downloads\XmlWhitespaceCleaner\obj\Release\XmlNormalizer.exe
+C:\Users\vijayr3\Downloads\XmlWhitespaceCleaner\obj\Release\XmlNormalizer.pdb
