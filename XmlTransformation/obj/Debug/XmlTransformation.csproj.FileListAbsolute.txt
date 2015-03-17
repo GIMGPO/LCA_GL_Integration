@@ -1,0 +1,4 @@
+C:\Users\vijayr3\Downloads\XmlTransformation\bin\Debug\XmlTransformation.dll
+C:\Users\vijayr3\Downloads\XmlTransformation\bin\Debug\XmlTransformation.pdb
+C:\Users\vijayr3\Downloads\XmlTransformation\obj\Debug\XmlTransformation.dll
+C:\Users\vijayr3\Downloads\XmlTransformation\obj\Debug\XmlTransformation.pdb
