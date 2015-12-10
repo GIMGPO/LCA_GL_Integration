@@ -1,0 +1,85 @@
+BROKER: Conref Ignore
+Inserts/Removes an ignore=yes attribute to/from any conref element.  The ANL is configured to respect this and not expose conref content for translation.
+
+BROKER: Conref Ignore Config file
+Contain a list of XPath queries to identify those elements that should be ignored for translation.  Used by BROKER: Conref Ignore broker resource.
+
+BROKER: Fix Namespace in Attribute
+Assumes file is encoded as UTF-8
+
+ExcelBrokerEMC.vbs
+Excel pre- and post- processing Broker script (Excel -> XML and XML -> Excel)
+
+ExcelBrokerEMCCOM.vbs
+Excel pre- and post- processing Broker script for EMC.com format files
+(Rows 2+, Cols D, E, F)
+[Excel -> XML and XML -> Excel]
+
+excel-html-conv-post.xsl
+Excel post-processing broker resource
+(XML to Excel)
+
+excel-html-conv-pre_Sheet1.xsl
+Excel pre-processing broker resource
+(Excel to XML)
+
+ISH-CreateJobName.config
+
+ISH-CreateJobName-dll
+
+ISH-CreateJobName-executable
+Inserts/Removes an ignore=yes attribute to/from any conref element.  The ANL is configured to respect this and not expose conref content for translation.
+
+MultiQACheckConfigFile_Editing.xml
+Configuration file for MultiQACheck broker script.  Rejects to Edit stage.
+
+MultiQACheckConfigFile_Feedback_Implementation.xml
+Configuration file for MultiQACheck broker script.  Rejects to Feedback Implementation stage.
+
+MultiQACheckConfigFile_PostEditing.xml
+Configuration file for MultiQACheck broker script. Rejects to Post Editing stage.
+
+MultiQACheckConfigFile_Proofing.xml
+Configuration file for MultiQACheck broker script.  Rejects to Proofing stage.
+
+MultiQACheckConfigFile_Translation.xml
+Configuration file for MultiQACheck broker script.  Rejects to Translation stage.
+
+OneToOne Executable
+For use in BROKER: Split DITA files
+
+OneTwoOne Config
+For use in BROKER: Split DITA files
+
+Sql Runner API Executable
+
+Sql Runner Trisoft Reassign Config
+
+SqlRunner: Skip WF Stage Configuration
+Configuration of content types to be skipped to the specified WF stage
+
+Update WIP TM from Bilingual File
+This broker script will automatically update the WIP TM from the Bilingual file.
+
+XML Transformer Config
+For use in BROKER: Add Transliteration Index workflow stage
+
+XML Transformer Config w Gloss
+XML Transformer Config w Gloss
+
+XML Transformer Executable
+For use in BROKER: Add Transliteration Index
+
+XML Transformer Interface
+For use in BROKER: Add Transliteration Index
+
+XML Whitespace Normaliser - configuration
+.Net 3.5 application configuration file specifying how to apply white space normalisation.
+
+XML Whitespace Normaliser - Executable
+.Net 3.5 application which normalises XML whitespace per the specification of the associated configuration file. 
+
+
+
+
+
